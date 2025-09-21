@@ -19,15 +19,6 @@ A simple Bash script to monitor system resources like CPU usage, memory, disk, a
 
 - https://github.com/user-attachments/assets/3d52248e-958f-4a86-9a4c-3eacdbc87c44
 
-
-<<<<<<< HEAD
-## 🔗 Project URL
-
-- GitHub Repository: https://github.com/noman-akram29/Server-Performance-Stats.git
-
-
-=======
->>>>>>> 6892e68 (Project url corrected)
 ## 🛠️ How to Run
 
 ```bash
