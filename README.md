@@ -22,3 +22,4 @@ chmod +x monitor.sh
 ./monitor.sh
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d52248e-958f-4a86-9a4c-3eacdbc87c44" />
